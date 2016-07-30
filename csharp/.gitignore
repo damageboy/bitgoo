@@ -1,0 +1,7 @@
+build/
+bin/
+.obj/
+.idea/
+dotnet/
+.vs/
+.vscode/
